@@ -1,6 +1,6 @@
 ## 🤝 Contribution Guidelines
 
-- You can pick up any of the issues form the issues section of the repo, or if you feel like the the scripts need extra features or if you find bugs, you can go ahead and create your own issue.
+- You can pick up any of the issues form the [issues section](https://github.com/Ak-Shaw/text-to-handwriting-script/issues) of the repo, or if you feel like the the scripts need extra features or if you find bugs, you can go ahead and create your own issue.
 - Kindly drop a comment on a issue if you want to work on it and let me assign it to you before you start your work.
 
 Messing up and screwing over is totally fine. If there's anything wrong in your PR, I'll try my best to lead you into fixing the errors.
