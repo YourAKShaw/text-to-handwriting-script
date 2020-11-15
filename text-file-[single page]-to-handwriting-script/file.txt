@@ -1,0 +1,9 @@
+Hey there! I hope you're doing fine.
+
+This repository contains couple of scripts that make use of the Selenium webdriver to automate the usage of the aforementioned, pretty cool, app of Saurabh. The man really saved me, for I used his app to submit my assignments!
+
+The scripts are coded in Python. If you want to contribute to the code, you can checkout CONTRIBUTING.md.
+
+For any questions, doubts, feedback, you can reach out to me on Twitter at 'akshawz'.
+
+For contributing, you can pick up any unclaimed issue, or make an issue of your own to start with.
