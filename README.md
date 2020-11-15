@@ -3,11 +3,12 @@
 <br/>
 <a href="CONTRIBUTING.md"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a>
 <br/>
-<img alt="GitHub License MIT" src="https://img.shields.io/github/license/Ak-Shaw/text-to-handwriting-script?style=for-the-badge&labelColor=black&logo=github"><a href="https://twitter.com/akshawz"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/akshawz?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@akshawz"></a>
+<img alt="GitHub License MIT" src="https://img.shields.io/github/license/Ak-Shaw/text-to-handwriting-script?style=for-the-badge&labelColor=black&logo=github"> <a href="https://twitter.com/akshawz"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/akshawz?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@akshawz"></a>
 <br/><br/>
 <i>Me and my friend <a href="https://github.com/saurabhdaware">Saurabh</a> hate writing assignments, so he made a tool that converts text to an image that looks like handwriting</i> 😛<i>, and I further coded a few scripts that automate the app's usage</i> 🤪.
 <br/><br/>
 <b>Checkout his work <a href="https://github.com/saurabhdaware/text-to-handwriting">here</a> and <a href="https://twitter.com/saurabhcodes">here</a>'s his Twitter handle.</b>
+
 
 
 </p>
