@@ -33,9 +33,13 @@ Interested peeps, kindly checkout the [Contribution Guide](CONTRIBUTING.md).
 
 #### DEPENDENCIES
 
-$ pip install selenium
+- Python installation is required.
 
-Download ChromeDriver from https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver
+- Selenium for Python can be installed using the command below:
+
+> $ pip install selenium
+
+- Download ChromeDriver from https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver
 
 [Note: In the given script, we've used ChromeDriver. You're free to use the webdriver for your preferred browser. Also change the CHROMEDRIVER_PATH if required.]
 
