@@ -33,7 +33,7 @@ Interested peeps, kindly checkout the [Contribution Guide](CONTRIBUTING.md).
 
 #### DEPENDENCIES
 
-- Python installation is required.
+- Python installation is required
 
 - Selenium for Python can be installed using the command below:
 
